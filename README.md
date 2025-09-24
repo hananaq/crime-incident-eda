@@ -26,3 +26,13 @@ The goal is to explore, clean, and visualize the dataset to uncover meaningful t
 - Distribution of crime types across time and location
 - Seasonal or temporal crime patterns
 -  Distribution of crime across age, gender and place
+
+---
+##  Project Structure
+```
+crime-eda/
+│
+├── Crime_EDA.ipynb # Main notebook with analysis & visualizations
+├── Guns incident Data.csv # Dataset used for the analysis
+└── README.md # Project description
+```
